@@ -8,7 +8,7 @@ export const Hero = () => {
 
   const downloadResume = () => {
     // This would be replaced with your actual resume URL
-    const resumeUrl = 'https://drive.google.com/file/d/1ACEQJmBbc5HRtIgTawjfbCiQ4OdnvcuQ/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1IwfE1M8QKRtD_4CC5Fi-st8Lp1FnfD_1/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   };
 
@@ -30,10 +30,10 @@ export const Hero = () => {
   const jobHighlights = [
     "Full Stack Development",
     "UI/UX Design",
-    "Team Leadership",
+    "Team Work",
     "Agile Methodology",
     "Performance Optimization",
-    "Cloud Architecture"
+     
   ];
 
   return (
@@ -194,10 +194,12 @@ export const Hero = () => {
                 <div>
                   <h4 className="font-semibold text-gray-900 dark:text-white mb-2">Preferred Roles</h4>
                   <ul className="list-disc list-inside text-gray-600 dark:text-gray-300 space-y-1">
-                    <li>Senior Full Stack Developer</li>
-                    <li>Technical Team Lead</li>
-                    <li>Frontend Architecture Specialist</li>
-                    <li>UI/UX Developer</li>
+                    <li> Full Stack Developer</li>
+                   
+                    <li>Frontend  Developer</li>
+                    <li> Backend Developer</li>
+                    <li> Web Developer</li>
+                    <li> Bot Developer</li>
                   </ul>
                 </div>
 
