@@ -13,7 +13,7 @@ export const Projects = () => {
     {
       title: " ShopNow Project",
       description: " A comprehensive e-commerce platform designed for scalability and performance",
-      image: "src/image/shopNow.png",
+      image: "https://i.postimg.cc/HsdS4wLz/shopNow.png",
       tags: ["React", "Node.js", "mongodb ", "Redux","Express Js","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/E-com-Full-Stack-Project",
       demo: "https://e-com-full-stack-project-9jpg.vercel.app",
@@ -37,7 +37,7 @@ export const Projects = () => {
     {
       title: " Food Application",
       description: "Real-time collaborative Cart management system",
-      image: "src/image/FoodApplication.png",
+      image: "https://i.postimg.cc/9fWNmy6z/Food-Application.png",
       tags: ["React", "Firebase", "Tailwind CSS","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/swigy-project",
       demo: "https://vocal-kataifi-155663.netlify.app/",
@@ -60,7 +60,7 @@ export const Projects = () => {
     {
       title: " NetflixGPT",
       description: " Redesigned the user interface for a streaming application using React and Tailwind CSS .",
-      image: "src/image/moviesGPT.png",
+      image: "https://i.postimg.cc/tg4QS0Cr/movies-GPT.png",
       tags: ["React", "D3.js", "Firebase","Tailwind Css"],
       github: "https://github.com/RAKESHKUSHWAHA7518/NetflixGPT.github.io",
       demo: "https://github.com/RAKESHKUSHWAHA7518/NetflixGPT.github.io",
@@ -99,7 +99,7 @@ export const Projects = () => {
     {
       title: "Weather Application",
       description: " This weather application providing temperature finding and cloud description features on a city-wise basis",
-      image: "src/image/weather.png",
+      image: "https://i.postimg.cc/PqPVvdqk/weather.png",
       tags: ["React", "D3.js", "Firebase","Tailwind Css","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/Weatherios.github.io",
       demo: "https://rakeshkushwaha7518.github.io/Weatherios.github.io/##/weather?lat=25.4381302&lon=81.8338005",
@@ -139,7 +139,7 @@ export const Projects = () => {
     {
       title: " Speech Text Reader",
       description: "  Led the creation of a dynamic web tool enabling text-to-speech conversion",
-      image: "src/image/image.png",
+      image: "https://i.postimg.cc/7YnWpBRj/Screenshot-2025-04-06-151022.png",
       tags: ["Html",   "Firebase","Tailwind Css","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/text.github.io",
       demo: "https://rakeshkushwaha7518.github.io/text-to-voice.github.io",
@@ -163,7 +163,7 @@ export const Projects = () => {
     {
       title: "Image Search Engine Copy Right Free",
       description: "  Led the creation of a dynamic web tool enabling Image search with Name and copy right free",
-      image: "src/image/imagesearch.png",
+      image: "https://i.postimg.cc/yd6qbM1Q/imagesearch.png",
       tags: ["Html",   " JavaScript","Css","GitHub","Git", "API"],
       github: "https://github.com/RAKESHKUSHWAHA7518/Image-search-Engine.github.io",
       demo: "https://rakeshkushwaha7518.github.io/Image-search-Engine.github.io/",
