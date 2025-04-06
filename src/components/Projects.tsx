@@ -13,7 +13,7 @@ export const Projects = () => {
     {
       title: " ShopNow Project",
       description: " A comprehensive e-commerce platform designed for scalability and performance",
-      image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=800",
+      image: "src/image/shopNow.png",
       tags: ["React", "Node.js", "mongodb ", "Redux","Express Js","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/E-com-Full-Stack-Project",
       demo: "https://e-com-full-stack-project-9jpg.vercel.app",
@@ -37,7 +37,7 @@ export const Projects = () => {
     {
       title: " Food Application",
       description: "Real-time collaborative Cart management system",
-      image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&q=80&w=800",
+      image: "src/image/FoodApplication.png",
       tags: ["React", "Firebase", "Tailwind CSS","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/swigy-project",
       demo: "https://vocal-kataifi-155663.netlify.app/",
@@ -60,18 +60,18 @@ export const Projects = () => {
     {
       title: " NetflixGPT",
       description: " Redesigned the user interface for a streaming application using React and Tailwind CSS .",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+      image: "src/image/moviesGPT.png",
       tags: ["React", "D3.js", "Firebase","Tailwind Css"],
       github: "https://github.com/RAKESHKUSHWAHA7518/NetflixGPT.github.io",
       demo: "https://github.com/RAKESHKUSHWAHA7518/NetflixGPT.github.io",
       // details: {
       //   overview: " Redesigned the user interface for a streaming application using React and Tailwind CSS . Implemented content loading, user authentication, and personalized recommendations 10 moviesIncorporated a unique feature utilizing GPT-3.5 for movie name identification in case of uncertainty",
       //   features: [
-      //     "Interactive data  Design",
-      //     "GPT 3.5 Integration",
-      //     "Real-time  Movies Trailer",
-      //     "Multi Language",
-      //     "Firebase Login"
+          // "Interactive data  Design",
+          // "GPT 3.5 Integration",
+          // "Real-time  Movies Trailer",
+          // "Multi Language",
+          // "Firebase Login"
       //   ],
       //   techStack: {
       //     frontend: ["React", "Firebase", "Tailwind Css","Context API"],
@@ -80,17 +80,17 @@ export const Projects = () => {
       //   }
       // }
       details: {
-        overview: "A full-stack e-commerce solution built with modern technologies, An E-commerce platform with 3 panels User, Admin, and Superadmin panels. Users can browse, add to cart,and purchase and admins manage products and inventory.• Built with React.js, Node.js, Express.js, and MongoDB, offering responsive design and it has 3 role-based access control",
+        overview: "Redesigned the user interface for a streaming application using React and Tailwind CSS . Implemented content loading, user authentication, and personalized recommendations 10 moviesIncorporated a unique feature utilizing GPT-3.5 for movie name identification in case of uncertainty",
         features: [
-          "User authentication and authorization",
-          "Product catalog with advanced filtering",
-          "Real-time shopping cart updates",
-          "Multi Role Access",
-          "3 Panel User,Admin,SuperAdmin"
+          "Interactive data  Design",
+          "GPT 3.5 Integration",
+          "Real-time  Movies Trailer",
+          "Multi Language",
+          "Firebase Login"
           
         ],
         techStack: {
-          frontend: ["React", "Redux", "Tailwind CSS"],
+          frontend: ["React", "Firebase", "Tailwind Css","Context API"],
           backend: ["Node.js", "Express", "Mongodb"],
           deployment: [ "Vercel"]
         }
@@ -99,80 +99,89 @@ export const Projects = () => {
     {
       title: "Weather Application",
       description: " This weather application providing temperature finding and cloud description features on a city-wise basis",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
+      image: "src/image/weather.png",
       tags: ["React", "D3.js", "Firebase","Tailwind Css","GitHub","Git"],
       github: "https://github.com/RAKESHKUSHWAHA7518/Weatherios.github.io",
       demo: "https://rakeshkushwaha7518.github.io/Weatherios.github.io/##/weather?lat=25.4381302&lon=81.8338005",
-      // details: {
-      //   overview: "This weather application providing temperature finding and cloud description features on a city-wise basis.  Proficient in integrating real-time weather data, location-based services, and presenting intuitive cloud descriptions",
-        // features: [
-        // "Interactive data  Design",
-        //   "Real-Time Weather Data Integration",
-        //   "Intuitive Cloud Descriptions",
-        //   "Responsive and Modern UI Design",
-        //   "Location-Based Services",
-        //   "City-Wise Temperature Monitoring"
-        // ],
-      //   techStack: {
-      //     frontend: ["JavaScript","html", "CSS", "Tailwind Css","Weather Api"],
-      //     // backend: ["Node.js", "MongoDB"],
-      //     deployment: ["GitHub"]
-      //   }
-      // }
       details: {
-        overview: "A full-stack e-commerce solution built with modern technologies, An E-commerce platform with 3 panels User, Admin, and Superadmin panels. Users can browse, add to cart,and purchase and admins manage products and inventory.• Built with React.js, Node.js, Express.js, and MongoDB, offering responsive design and it has 3 role-based access control",
+        overview: "This weather application providing temperature finding and cloud description features on a city-wise basis.  Proficient in integrating real-time weather data, location-based services, and presenting intuitive cloud descriptions",
         features: [
-          "User authentication and authorization",
-          "Product catalog with advanced filtering",
-          "Real-time shopping cart updates",
-          "Multi Role Access",
-          "3 Panel User,Admin,SuperAdmin"
-          
+        "Interactive data  Design",
+          "Real-Time Weather Data Integration",
+          "Intuitive Cloud Descriptions",
+          "Responsive and Modern UI Design",
+          "Location-Based Services",
+          "City-Wise Temperature Monitoring"
         ],
         techStack: {
-          frontend: ["React", "Redux", "Tailwind CSS"],
-          backend: ["Node.js", "Express", "Mongodb"],
-          deployment: [ "Vercel"]
+          frontend: ["JavaScript","html", "CSS", "Tailwind Css","Weather Api"],
+          backend: [ ],
+          deployment: ["GitHub"]
         }
       }
-    },
-    {
-      title: " Speech Text Reader",
-      description: " This weather application providing temperature finding and cloud description features on a city-wise basis",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=800",
-      tags: ["Html",   "Firebase","Tailwind Css","GitHub","Git"],
-      github: "https://github.com/RAKESHKUSHWAHA7518/text.github.io",
-      demo: "https://rakeshkushwaha7518.github.io/text-to-voice.github.io",
       // details: {
-      //   overview: " Led the creation of a dynamic web tool enabling text-to-speech conversion Leveraged Web Speech API to enrich the user experience with auditory content",
+      //   overview: "A full-stack e-commerce solution built with modern technologies, An E-commerce platform with 3 panels User, Admin, and Superadmin panels. Users can browse, add to cart,and purchase and admins manage products and inventory.• Built with React.js, Node.js, Express.js, and MongoDB, offering responsive design and it has 3 role-based access control",
       //   features: [
-      //   "User Experience Enrichment:",
-      //     "Web Speech API Integration",
-      //     "Dynamic Text-to-Speech Web Tool",
+      //     "User authentication and authorization",
+      //     "Product catalog with advanced filtering",
+      //     "Real-time shopping cart updates",
+      //     "Multi Role Access",
+      //     "3 Panel User,Admin,SuperAdmin"
           
       //   ],
       //   techStack: {
-      //     frontend: ["JavaScript","html", "CSS", "Tailwind Css"," Speech Api"],
-      //     // backend: ["Node.js", "MongoDB"],
-      //     deployment: ["GitHub"]
+      //     frontend: ["React", "Redux", "Tailwind CSS"],
+      //     backend: ["Node.js", "Express", "Mongodb"],
+      //     deployment: [ "Vercel"]
       //   }
       // }
+    },
+    {
+      title: " Speech Text Reader",
+      description: "  Led the creation of a dynamic web tool enabling text-to-speech conversion",
+      image: "src/image/image.png",
+      tags: ["Html",   "Firebase","Tailwind Css","GitHub","Git"],
+      github: "https://github.com/RAKESHKUSHWAHA7518/text.github.io",
+      demo: "https://rakeshkushwaha7518.github.io/text-to-voice.github.io",
       details: {
-        overview: "A full-stack e-commerce solution built with modern technologies, An E-commerce platform with 3 panels User, Admin, and Superadmin panels. Users can browse, add to cart,and purchase and admins manage products and inventory.• Built with React.js, Node.js, Express.js, and MongoDB, offering responsive design and it has 3 role-based access control",
+        overview: " Led the creation of a dynamic web tool enabling text-to-speech conversion Leveraged Web Speech API to enrich the user experience with auditory content",
         features: [
-          "User authentication and authorization",
-          "Product catalog with advanced filtering",
-          "Real-time shopping cart updates",
-          "Multi Role Access",
-          "3 Panel User,Admin,SuperAdmin"
+        "User Experience Enrichment:",
+          "Web Speech API Integration",
+          "Dynamic Text-to-Speech Web Tool",
           
         ],
         techStack: {
-          frontend: ["React", "Redux", "Tailwind CSS"],
-          backend: ["Node.js", "Express", "Mongodb"],
-          deployment: [ "Vercel"]
+          frontend: ["JavaScript","html", "CSS", "Tailwind Css"," Speech Api"],
+          backend: [ ],
+          deployment: ["GitHub"]
         }
       }
+       
+    }
+    ,
+    {
+      title: "Image Search Engine Copy Right Free",
+      description: "  Led the creation of a dynamic web tool enabling Image search with Name and copy right free",
+      image: "src/image/imagesearch.png",
+      tags: ["Html",   " JavaScript","Css","GitHub","Git", "API"],
+      github: "https://github.com/RAKESHKUSHWAHA7518/Image-search-Engine.github.io",
+      demo: "https://rakeshkushwaha7518.github.io/Image-search-Engine.github.io/",
+      details: {
+        overview: "Led the creation of a dynamic web tool enabling Image search with Name and copy right free all image come form unsplash api and all image are copy right free",
+        features: [
+        "User Experience Enrichment:",
+          "Web  KeyName Search Integration",
+          "Dynamic  Image Search Web Tool",
+          
+        ],
+        techStack: {
+          frontend: ["JavaScript","html", "CSS", "unsplash Api"],
+          backend: [ ],
+          deployment: ["GitHub"]
+        }
+      }
+       
     }
   ];
 
