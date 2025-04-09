@@ -650,11 +650,11 @@ export const About = () => {
                   from startups to enterprise solutions, delivering high-quality solutions that exceed 
                   expectations.
                 </p>
-                <p>
+                {/* <p>
                   I'm passionate about staying current with emerging technologies and best practices, 
                   regularly contributing to open-source projects and sharing knowledge with the 
                   developer community.
-                </p>
+                </p> */}
               </div>
             </div>
           </motion.div>

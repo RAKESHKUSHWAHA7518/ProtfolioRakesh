@@ -73,7 +73,7 @@ export const Footer = () => {
             <ul className="space-y-2 text-gray-600 dark:text-gray-400">
               <li>Prayagraj ,UP ,India</li>
               <li> rk7518329420@gmail.com</li>
-              <li>+91  7518329420</li>
+              <li>+91 7518329420</li>
             </ul>
           </div>
         </div>
